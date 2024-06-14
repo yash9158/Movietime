@@ -1,1 +1,2 @@
-I have created this website using html css and js
+I have created this website using HTML and JS.
+It Informs about Latest Movies available Online.
